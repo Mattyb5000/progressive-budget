@@ -4,4 +4,6 @@ The progressive budget app allows you to enter incoming and outgoing payments bo
 
 [Deployed site](https://powerful-plains-13679.herokuapp.com/)
 
+---
+
 ![Progressive budget tracker with cached storage](public/budgetapp.png)
